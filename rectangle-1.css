@@ -1,0 +1,6 @@
+.rectangle-div {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-silver);
+  height: 960px;
+}

@@ -1,0 +1,9 @@
+.logo-nike-1 {
+  width: 100%;
+  position: relative;
+  height: 32.7px;
+  background-image: url(./public/logo-nike-1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}

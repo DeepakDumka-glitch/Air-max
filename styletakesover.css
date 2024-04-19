@@ -1,0 +1,16 @@
+.style-takes-over {
+  width: 713px;
+  position: relative;
+  font-size: 18px;
+  letter-spacing: 1.25em;
+  text-transform: uppercase;
+  display: flex;
+  font-family: var(--font-segoe-ui);
+  color: #373434;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  height: 78px;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+}

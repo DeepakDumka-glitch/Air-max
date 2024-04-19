@@ -1,0 +1,144 @@
+.background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: radial-gradient(50% 50%at 50% 50%, #2d2b2b 8.4%, #000 80.2%);
+  width: 1600px;
+  height: 960px;
+}
+.subject-icon {
+  position: absolute;
+  top: 49px;
+  left: 606px;
+  width: 994.2px;
+  height: 826.3px;
+  object-fit: cover;
+}
+.text-section-child {
+  position: absolute;
+  top: calc(50% + 285px);
+  left: calc(50% - 359.5px);
+  border-radius: 27px;
+  background-color: var(--color-silver);
+  width: 133px;
+  height: 54px;
+}
+.air-max {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  font-weight: 900;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  width: 749px;
+  height: 297px;
+}
+.nike-air-max {
+  top: 240px;
+  left: 11px;
+  font-size: 40px;
+  letter-spacing: 0.15em;
+  width: 401px;
+  height: 92px;
+}
+.add-to-cart,
+.i,
+.nike-air-max,
+.nothing-as-fly {
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+.add-to-cart {
+  top: calc(50% + 303px);
+  left: calc(50% - 342.5px);
+  font-size: 15px;
+  font-weight: 600;
+  color: #030303;
+  width: 98px;
+  height: 18px;
+}
+.i,
+.nothing-as-fly {
+  left: 11px;
+}
+.nothing-as-fly {
+  top: 458px;
+  font-size: 16px;
+  letter-spacing: 0.06em;
+  font-weight: 600;
+  width: 507px;
+  height: 117px;
+}
+.i {
+  top: 346px;
+  font-size: 45px;
+  width: 401px;
+  height: 92px;
+}
+.text-section {
+  position: absolute;
+  top: calc(50% - 327px);
+  left: calc(50% - 721px);
+  width: 749px;
+  height: 678px;
+}
+.about,
+.collection,
+.contact,
+.home {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 163px;
+  height: 42px;
+}
+.about,
+.collection,
+.contact {
+  left: 212px;
+}
+.about,
+.contact {
+  left: 418px;
+}
+.contact {
+  left: 617px;
+}
+.menu-section-child {
+  position: absolute;
+  top: 288.3px;
+  left: 337.3px;
+  border-radius: 50%;
+  background-color: rgba(124, 108, 108, 0.07);
+  backdrop-filter: blur(24.65px);
+  border: 0.7px solid rgba(153, 159, 162, 0.93);
+  box-sizing: border-box;
+  width: 104.4px;
+  height: 97.5px;
+}
+.menu-section {
+  position: absolute;
+  top: 43px;
+  left: 410px;
+  width: 780px;
+  height: 385.1px;
+  text-align: center;
+  font-size: var(--font-size-xl);
+}
+.background-parent {
+  width: 100%;
+  position: relative;
+  background-color: #000;
+  height: 960px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 161.7px;
+  color: var(--color-white);
+  font-family: var(--font-segoe-ui);
+}
